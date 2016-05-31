@@ -3,6 +3,7 @@ Count
 uno
 dos
 tres
+cuatro
 cinco
 seis
 ocho
